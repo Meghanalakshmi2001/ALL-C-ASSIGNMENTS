@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BASIC CSHARP PROGRAMS", "Assignment1\BASIC CSHARP PROGRAMS.csproj", "{18AD7A5A-380A-48BD-A244-B10E6A0EADCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F8518B1E-4D1D-469E-85C6-E39A34F48CE3}"
+	ProjectSection(SolutionItems) = preProject
+		Assign3.cs = Assign3.cs
+		Assign4.cs = Assign4.cs
+		Assign6.txt = Assign6.txt
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18AD7A5A-380A-48BD-A244-B10E6A0EADCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AD7A5A-380A-48BD-A244-B10E6A0EADCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AD7A5A-380A-48BD-A244-B10E6A0EADCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AD7A5A-380A-48BD-A244-B10E6A0EADCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EDC39F3-E980-412A-922E-AC63A6D79F5C}
+	EndGlobalSection
+EndGlobal
